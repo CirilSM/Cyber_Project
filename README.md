@@ -8,7 +8,7 @@ The message is passed through different phases. First of all, various data prepr
 and handling of munched words. Various attributes are extracted from it, including density of offensive words, sentimental analysis, and weighted average of offensive words. For prediction of cyberbullying and its specific type, different classification models are used that include SVC, Logistic Regression, Random Forest Classifier, KNN, Naive Bayes and Extra Trees Classifier. It returns results that the Random Forest Classifier holds an accuracy of 85% in identifying cyberbullying, and logistic regression turns out to be 94% accurate in classifying the type of cyberbullying.
 
 ## **Objectives**
-•	A project aimed at correct detection of cyberbullying and type of bullying is presence of text.
+•	A project aimed at correct detection of cyberbullying and type of bullying is presence of text.<br>
 •	It will help in making tailored responses and effective moderation and get insights about
 •	particular type with detection of bullying type like race, religion, age, and gender.
 •	Analyze textual data for detection of cyberbullying from it through linguistic patterns using NLP.
