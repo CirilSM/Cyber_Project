@@ -1,1 +1,2 @@
 # **SafeNet**
+The goal of this project is to predict whether or not a particular text can be classed as hostile by utilizing machine learning and natural language processing (NLP). Additionally, try to pinpoint the precise kind of objectionable content—for example, content that offends based on someone's age, gender, religion, or race. By combining cutting-edge NLP and ML approaches, the method analyzes text data and extracts relevant patterns.
