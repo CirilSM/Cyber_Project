@@ -9,12 +9,11 @@ and handling of munched words. Various attributes are extracted from it, includi
 
 ## **Objectives**
 •	A project aimed at correct detection of cyberbullying and type of bullying is presence of text.<br>
-•	It will help in making tailored responses and effective moderation and get insights about.<br>
-•	particular type with detection of bullying type like race, religion, age, and gender.<br>
+•	It will help in making tailored responses and effective moderation and get insights about particular type with detection of bullying type like race, religion, age, and gender.<br>
 •	Analyze textual data for detection of cyberbullying from it through linguistic patterns using NLP.<br>
 •	Apply machine learning models for predicting whether a text can be classified as offensive or safe.<br>
 •	Make a positive project to remove online hate and abuses from the internet so that the user is free from any harm or abusive selling.<br>
-•	Our project keeps on evolving hand in hand to cope up with the new patterns of abusive language and provide the best service to our client.<br>
+•	The project keeps on evolving hand in hand to cope up with the new patterns of abusive language and provide the best service to our client.<br>
 
 ## **Data Collection**
 For this project, We used a Kaggle dataset containing over 47,000 tweets classified by cyberbullying types (age, ethnicity/race, gender, religion, others) and non-cyberbullying. To simplify analysis, we reduced the dataset to approximately 250 instances per class. The project is divided into two parts: first, identifying whether a tweet contains cyberbullying, and second, classifying the type of cyberbullying.  We compiled wordlists related to age, race, gender, religion, offensive terms with severity, slang abbreviations, and negations, all stored in a database as separate tables.
